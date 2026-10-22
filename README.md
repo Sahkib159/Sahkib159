@@ -36,8 +36,9 @@
 
 - 🎓 Studying Computer Science & Engineering at IUB
 - 💻 Interested in software engineering and full-stack development
+- 🏫 Built projects including a School Management System and Real Estate Management System
 - 🧠 Strengthening my programming, database, and web development skills
-- 🛠️ I learn best by building and improving practical projects
+- 🛠️ Learning by building practical projects and solving problems
 - 🎯 Long-term goal: become a well-rounded software engineer
 
 ## `02` // TECH STACK
@@ -67,6 +68,11 @@
 
 ## `03` // FEATURED PROJECTS
 
+### 🏫 School Management System
+A practical software project focused on school management.
+
+[**View Repository →**](https://github.com/Sahkib159/school_management_system)
+
 ### 🏠 Real Estate Management System
 An object-oriented group project focused on real estate management.
 
@@ -86,8 +92,6 @@ A CSE project exploring parser-related concepts.
 A software project from my development journey.
 
 [**View Repository →**](https://github.com/Sahkib159/The-Cyber-Terminal)
-
-> Project descriptions should be updated to reflect each repository's actual features and my specific contribution.
 
 ## `04` // GITHUB STATISTICS
 
