@@ -68,6 +68,11 @@
 
 ## `03` // FEATURED PROJECTS
 
+### 🌐 Personal Portfolio
+My personal website showcasing my background and projects.
+
+[**Visit Portfolio →**](https://portfolio-shades6.vercel.app/)
+
 ### 🏫 School Management System
 A practical software project focused on school management.
 
@@ -77,11 +82,6 @@ A practical software project focused on school management.
 An object-oriented group project focused on real estate management.
 
 [**View Repository →**](https://github.com/Sahkib159/oop-project-group18-Real-Estate)
-
-### 🌐 Personal Portfolio
-My personal website showcasing my background and projects.
-
-[**Visit Portfolio →**](https://portfolio-shades6.vercel.app/)
 
 ### 🧩 Smart Parser Project
 A CSE project exploring parser-related concepts.
